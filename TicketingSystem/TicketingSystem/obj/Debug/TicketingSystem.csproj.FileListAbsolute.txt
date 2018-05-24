@@ -79,3 +79,8 @@ C:\Users\yomna\OneDrive\Desktop\GraduationProject1\TicketingSystem\TicketingSyst
 C:\Users\yomna\OneDrive\Desktop\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.pdb
 C:\Users\yomna\OneDrive\Desktop\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Migrations.f1.resources
 C:\Users\yomna\OneDrive\Desktop\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.GenerateResource.Cache
+C:\Users\Eman\Documents\GitHub\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Eman\Documents\GitHub\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Migrations.f1.resources
+C:\Users\Eman\Documents\GitHub\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.GenerateResource.Cache
+C:\Users\Eman\Documents\GitHub\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.dll
+C:\Users\Eman\Documents\GitHub\GraduationProject1\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.pdb
